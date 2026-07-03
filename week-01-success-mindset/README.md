@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe every relationship be it informal or formal is transactional 
 
 ---
 
@@ -55,11 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+If you don't rest, your body will eventually force you to.
 
 ### Evidence from my life
 
-Add your answer here...
+In university, I believed that sacrificing sleep and constantly studying meant I was working hard, so I ignored my body's need for rest out of fear of failure. Eventually, exhaustion would catch up with me, and my body would force me to stop. That experience taught me that rest isn't a luxury it's a necessity. Now, I see rest as an essential part of staying productive and performing at my best.
+
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Your mind doesn't always tell you the truth.
 
 ### Evidence from my life
 
-Add your answer here...
+When I was younger, I believed everyone else had life figured out while I was the only one struggling, which greatly affected my self-esteem. As I grew older, I realized that this was simply a story my mind had created, not reality. The truth is that no one has everything figured out,we are all learning, growing, and finding our way. That realization has helped me become more confident and kinder to myself.
 
 ---
 
@@ -79,11 +80,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Progress usually requires discomfort.
 
 ### Evidence from my life
 
-Add your answer here...
+Choosing to transition into tech 6 months after graduating from the university where I studied Sociology meant stepping far outside my comfort zone. I had to trade hours of scrolling online for studying, spend long days learning technical concepts, and dedicate most of my time to practicing on my laptop. The journey has been challenging, but it has shown me that meaningful progress often comes with discomfort. One year later, I can confidently say the growth has been worth every sacrifice
 
 ---
 
@@ -135,13 +136,24 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+**Ajibulu Ireoluwa: Building Solutions, Inspiring People**
+
+By 2030, Ajibulu Ireoluwa had established herself as a Senior DevOps Engineer and Solutions Architect, recognized for designing secure, scalable, and reliable cloud solutions. After beginning her career as a Solutions Architect Intern, she steadily advanced through hands-on experience, continuous learning, and a commitment to excellence.
+
+She had built and deployed cloud-native applications, automated infrastructure using Infrastructure as Code, and led the implementation of CI/CD pipelines that improved software delivery for the teams she worked with. Her GitHub portfolio showcased practical DevOps and cloud engineering projects, while her technical blog documented lessons, project walkthroughs, and best practices for aspiring engineers.
+
+Beyond her technical work, Ireoluwa had become a respected voice in the cloud community. She had earned industry recognized cloud certifications, contributed to open-source projects, and regularly spoke at technology conferences and community events, inspiring others through her story of transitioning from Sociology into tech. Her talks encouraged aspiring engineers to embrace continuous learning and believe that career pivots are possible.
+
+She had also launched a podcast where she shared honest conversations about life, growth, discipline, and navigating adulthood. Through both the podcast and her conference talks, she inspired people to pursue meaningful careers while staying grounded in personal development.
+
+Her journey reflected resilience, curiosity, and consistency. Through her work, public speaking, and authentic storytelling, Ajibulu Ireoluwa had become known not only for building reliable systems but also for inspiring others to believe in their ability to grow and create meaningful impact.
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://medium.com/@SoftGirlTech/my-version-2-0-a-story-written-from-2030-7420608b2b10?sharedUserId=SoftGirlTech
 
 ---
 
@@ -167,7 +179,7 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes: NO
 
 **What emotion did you feel?** (minimum 50–100 words)
 
@@ -199,16 +211,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The 5AM Club by Robin Sharma
+2. Rich dad poor dad by Robert T. Kiyosaki
+3. Atomic Habits by James Clear
+4. The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+5. The 7 Habits of Highly Effective People by Stephen R. Covey
+6. Deep Work by Cal Newport
+7. The Psychology of Money by Morgan Housel
+8. How to Win Friends and Influence People by Dale Carnegie
+9. Mindset: The New Psychology of Success byCarol S. Dweck
+10. The First 90 Days by Michael D. Watkins
 
 ---
 
@@ -237,16 +249,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Sleep quality
+* Study consistency
+* Monthly spending tracker
+* Certifications completed
+* Technical skills acquired
+* Work-life balance
+* Mindset and personal growth
+* Portfolio updates
+* Time spent on distractions (social media/screen time)
+* Deep work sessions
 
 ---
 
@@ -270,9 +282,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: 
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +302,12 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+
+* **Monday–Friday:** Work remotely until 5:30 PM, then dedicate focused time to studying for DMI.
+
+* **Saturday:** Attend the DMI live class and do a recap of the week's lessons in the evening.
+* **Sunday:** After church, continue studying, review my notes, and prepare for the week ahead.
+
 
 ---
 
@@ -298,11 +315,19 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday–Friday: 3 hours during the day and 3 hours in the evening (6 hours total).
+
+Saturday: Attend the DMI live class and spend 3 hours reviewing and practicing in the evening.
+
+Sunday: Spend 3 hours after church studying, reviewing notes, and preparing for the new week.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Monday–Friday: 2 study sessions per day (10 sessions)
+
+Saturday: 1 review session
+
+Sunday: 1 review and planning session
 
 ---
 
@@ -316,7 +341,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+My social media apps remain locked from 9:00 AM to 5:00 PM using Opal to minimize distractions.
+I study in the reading room in my building because it is quiet, conducive, and helps me stay focused.
+I keep my phone on Do Not Disturb during study sessions and only check messages during scheduled breaks.
 
 ---
 
@@ -324,28 +351,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+That I have not set up sustainable structures so my emotions keep winning instead of my routine
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Procastination
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Time management and structured routine
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+https://www.linkedin.com/posts/ajibulu-ireoluwa_one-week-into-the-devops-micro-internship-share-7478850411781767168-TpHN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/ajibulu-ireoluwa_we-were-asked-to-write-about-our-version-activity-7478855723498610689-B9a6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U**  
+- Blog / Medium : **https://medium.com/@SoftGirlTech/my-version-2-0-a-story-written-from-2030-7420608b2b10?sharedUserId=SoftGirlTech**  
 
 ---
 
