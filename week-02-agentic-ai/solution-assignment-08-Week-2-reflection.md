@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-"![week 2-assignment 8-screenshot1]("C:\Users\USER\Pictures\Screenshots\assignment 8-week 2-screenshot 1.png")"
+![Week 2 Screenshot](screenshots/assignment8-week2-screenshot 1.png)
 
 ---
 
@@ -93,7 +93,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-![ssignment 8-week 2-screenshot 2]("C:\Users\USER\Pictures\Screenshots\assignment 8-week 2-screenshot 2.png")
+![Week 2 Screenshot](screenshots/assignment8-week2-screenshot 2.png)
 
 ---
 
