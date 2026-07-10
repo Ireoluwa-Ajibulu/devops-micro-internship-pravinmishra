@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+"![week 2-assignment 8-screenshot1]("C:\Users\USER\Pictures\Screenshots\assignment 8-week 2-screenshot 1.png")"
 
 ---
 
@@ -54,7 +54,8 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@SoftGirlTech/week-2-at-the-devops-micro-internship-building-better-systems-with-agentic-ai-ffcbc66935de?sharedUserId=SoftGirlTech
+`
 
 ---
 
@@ -92,7 +93,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![ssignment 8-week 2-screenshot 2]("C:\Users\USER\Pictures\Screenshots\assignment 8-week 2-screenshot 2.png")
 
 ---
 
@@ -101,14 +102,22 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 of the DevOps Micro Internship (DMI) completely changed how I think about Agentic AI.
+One of the most interesting things I got to learn this week is that Agentic AI follows a loop, it gathers information, acts on it, verifies the result, and improves if needed. Instead of stopping after one response, it keeps working until the task is completed correctly.
+I also learned the importance of a good CLAUDE.md file. It gives Claude the context it needs to understand a project, follow the right standards, and make better decisions without needing the same instructions every time.
+Learning about Skills completely changed my perspective. They transform an LLM from a generalist that knows a little about everything into a specialist that knows exactly how you or your team want specific tasks done. Instead of writing the same scripts repeatedly, DevOps engineers can invest that time in creating great Skills that can be reused over and over.
+Another lesson that stood out was learning about Agents. I now see AI as a reliable teammate that I can delegate specific tasks to while I focus on higher-level decisions. At the same time, a well-written Skill helps keep AI from overplaying its role by giving it clear instructions, boundaries, and responsibilities.
+This week also introduced me to Hooks, MCP Servers, Memory, and Permissions, showing me how AI can safely interact with tools, remember useful context, and automate workflows while still operating within defined limits.
+I am excited for Week 3!!!
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/dEWbFSW5 ).
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/ajibulu-ireoluwa_devops-agenticai-claudecode-share-7481443672203636736-kFKR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U`
 
 ---
 
