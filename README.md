@@ -73,8 +73,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 01 → Success Mindset 
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -135,7 +135,10 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/ajibulu-ireoluwa_one-week-into-the-devops-micro-internship-share-7478850411781767168-TpHN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U | https://medium.com/@SoftGirlTech/my-version-2-0-a-story-written-from-2030-7420608b2b10?sharedUserId=SoftGirlTech |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ajibulu-ireoluwa_devops-agenticai-claudecode-share-7481443672203636736-kFKR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U
+ | https://medium.com/@SoftGirlTech/week-2-at-the-devops-micro-internship-building-better-systems-with-agentic-ai-ffcbc66935de?sharedUserId=SoftGirlTech
+
+ |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
