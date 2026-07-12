@@ -20,14 +20,14 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-![screenshot-1](screenshots/DMI-WK2-ASSIGMENT-1-SCREENSHOTS/Screenshot-189.png)
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-189.png)
 
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+![screenshot-2](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-193.png)
 
 ---
 
@@ -41,7 +41,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+![screenshot-3](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-194.png)
 
 ---
 
@@ -55,8 +55,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-264.png)
 
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-265.png)
+
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-262.png)
+
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-1/Screenshot-263.png)
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
@@ -78,7 +83,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Ireoluwa-Ajibulu/devops-micro-internship-pravinmishra.git`
 
 ---
 
