@@ -54,13 +54,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-218.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-220.png)
 
 ---
 
@@ -74,13 +74,16 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-221.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-222.png)
+
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-223.png)
+
 
 ---
 
@@ -94,7 +97,10 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-222.png)
+
+![screenshot-1](screenshots/DMI-WEEK2/ASSIGNMENT-4/Screenshot-223.png)
+
 
 ---
 
@@ -110,7 +116,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/Ireoluwa-Ajibulu/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
