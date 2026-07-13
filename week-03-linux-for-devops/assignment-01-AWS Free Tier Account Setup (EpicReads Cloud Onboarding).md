@@ -20,19 +20,25 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An aws account is my personal account in aws it is entry pass to use aws's services
+I need it at this stage to practice all that I am learning.
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier allows new AWS customers use many AWS services for free within certain usage limits. It is designed to help people learn, experiment, and build small applications without incurring charges, as long as they stay within the free usage limits.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+AWS Lambda - 1 million free requests per month
+400,000 GB-seconds of compute time per month
+
+Amazon S3 - 5 GB of Standard Storage (Always Free monthly allowance)
+
+Amazon DynamoDB - 25 GB of storage per month (Always Free)
 
 ---
 
