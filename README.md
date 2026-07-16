@@ -139,7 +139,7 @@ This is not a course. It is an internship-style program — real deployments, re
  | https://medium.com/@SoftGirlTech/week-2-at-the-devops-micro-internship-building-better-systems-with-agentic-ai-ffcbc66935de?sharedUserId=SoftGirlTech
 
  |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
