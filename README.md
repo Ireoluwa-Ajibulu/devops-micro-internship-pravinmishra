@@ -67,8 +67,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack:**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics 
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
  Week 01 → Success Mindset 
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ajibulu-ireoluwa_just-wrapped-up-my-week-0-assignment-the-activity-7448120091185090560-vSvx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U| — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/ajibulu-ireoluwa_one-week-into-the-devops-micro-internship-share-7478850411781767168-TpHN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U | https://medium.com/@SoftGirlTech/my-version-2-0-a-story-written-from-2030-7420608b2b10?sharedUserId=SoftGirlTech |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ajibulu-ireoluwa_devops-agenticai-claudecode-share-7481443672203636736-kFKR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4V7VsBID3nZQmXb8c2g7zxOsf-7ZYzd9U
  | https://medium.com/@SoftGirlTech/week-2-at-the-devops-micro-internship-building-better-systems-with-agentic-ai-ffcbc66935de?sharedUserId=SoftGirlTech |
